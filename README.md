@@ -60,7 +60,7 @@ Dataset yang digunakan adalah dataset **California Housing Prices**, yang tersed
 -   `median_house_value`: Nilai median rumah untuk rumah tangga dalam satu blok (variabel target) (14999.0 hingga 500001.0)
 -   `ocean_proximity`: Lokasi rumah relatif terhadap laut (Kategorikal: <1H OCEAN, INLAND, NEAR OCEAN, NEAR BAY, ISLAND)
 
-Dataset dapat ditemukan [di sini](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
+Dataset dapat ditemukan [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
 
 ## Eksplorasi Data (EDA)
 
@@ -130,10 +130,9 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1.  **Kloning repositori**:
     ```bash
-    git clone <url_repositori_anda>
+    git clone <(https://github.com/Bagusdarmawan11/Predictive-Analytics)>
     cd california-housing-price-prediction
     ```
-    (Ganti `<url_repositori_anda>` dengan URL repositori GitHub Anda yang sebenarnya)
 
 2.  **Instal dependensi**:
     Pastikan Anda telah menginstal Python. Kemudian instal pustaka yang diperlukan:
